@@ -1,0 +1,106 @@
+﻿DataSource,TurtleID,HealingStage,InjuryCause,InjuryLocation,InjurySeverity,InjuryNumber
+TurtleSpot TW,TW01G0197,Partially healed,Fishing line entanglement,Flippers,Severe,1
+TurtleSpot TW,TW01G0269,Partially healed,Unknown,Flippers,Minor,1
+TurtleSpot TW,TW01G0280,Partially healed,Fishing line entanglement,Flippers,Minor,1
+TurtleSpot TW,TW01G0466,Partially healed,Propeller strike,Carapace,Minor,1
+TurtleSpot TW,TW01G0514,Partially healed,Propeller strike,Carapace,Severe,2
+TurtleSpot TW,TW01G0536,Partially healed,Unknown,Mouth,Minor,1
+TurtleSpot TW,TW01G0581,Partially healed,Propeller strike,Carapace,Severe,1
+Survey,TW01G0647,Partially healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0004,Healed,Unknown,Flippers,Minor,1
+TurtleSpot TW,TW01G0013,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0016,Healed,Unknown,Flippers,Severe,1
+TurtleSpot TW,TW01G0039,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0047,Healed,Unknown,Carapace,Minor,2
+TurtleSpot TW,TW01G0048,Healed,Unknown,"Carapace, Flippers",Severe,2
+TurtleSpot TW,TW01G0049,Healed,Propeller strike,"Carapace, Head",Severe,3
+TurtleSpot TW,TW01G0050,Healed,Unknown,Carapace,Minor,2
+TurtleSpot TW,TW01G0056,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0058,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0059,Healed,Propeller strike,Carapace,Severe,2
+TurtleSpot TW,TW01G0060,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0066,Healed,Unknown,Flippers,Severe,1
+TurtleSpot TW,TW01G0069,Healed,Unknown,Flippers,Minor,1
+TurtleSpot TW,TW01G0070,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0072,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0073,Healed,Fishing line entanglement,Head,Minor,1
+Survey,TW01G0090,Healed,Unknown,Flippers,Minor,1
+TurtleSpot TW,TW01G0091,Healed,Unknown,Flippers,Severe,1
+TurtleSpot TW,TW01G0093,Healed,Unknown,Flippers,Minor,1
+TurtleSpot TW,TW01G0106,Healed,Propeller strike,Carapace,Minor,2
+Survey,TW01G0107,Healed,Unknown,Carapace,Minor,1
+Survey,TW01G0109,Healed,Fishing line entanglement,Flippers,Minor,1
+Survey,TW01G0110,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0111,Healed,Propeller strike,Carapace,Severe,2
+TurtleSpot TW,TW01G0115,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0119,Healed,Unknown,Flippers,Minor,1
+TurtleSpot TW,TW01G0120,Healed,Propeller strike,Carapace,Minor,2
+TurtleSpot TW,TW01G0127,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0135,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0142,Healed,Fishing line entanglement,Flippers,Minor,1
+TurtleSpot TW,TW01G0146,Healed,Propeller strike,Carapace,Severe,1
+TurtleSpot TW,TW01G0151,Healed,Unknown,Flippers,Minor,1
+TurtleSpot TW,TW01G0155,Healed,Fishing line entanglement,Flippers,Minor,1
+TurtleSpot TW,TW01G0162,Healed,Propeller strike,Carapace,Severe,1
+TurtleSpot TW,TW01G0166,Healed,Unknown,Flippers,Severe,1
+TurtleSpot TW,TW01G0177,Healed,Fishing line entanglement,Flippers,Minor,1
+TurtleSpot TW,TW01G0178,Healed,Unknown,Flippers,Minor,1
+TurtleSpot TW,TW01G0180,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0184,Healed,Unknown,Head,Minor,1
+TurtleSpot TW,TW01G0187,Healed,Unknown,Flippers,Minor,1
+TurtleSpot TW,TW01G0188,Healed,Propeller strike,Carapace,Severe,1
+TurtleSpot TW,TW01G0189,Healed,Unknown,"Flippers, Head",Severe,1
+TurtleSpot TW,TW01G0200,Healed,Fishing line entanglement,Flippers,Minor,1
+TurtleSpot TW,TW01G0211,Healed,Unknown,Flippers,Severe,1
+TurtleSpot TW,TW01G0218,Healed,Unknown,"Flippers, Head",Severe,2
+TurtleSpot TW,TW01G0220,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0239,Healed,Unknown,Flippers,Minor,1
+TurtleSpot TW,TW01G0251,Healed,Propeller strike,Carapace,Severe,1
+TurtleSpot TW,TW01G0255,Healed,Unknown,Flippers,Severe,1
+TurtleSpot TW,TW01G0285,Healed,Unknown,"Carapace, Head, Flippers",Minor,1
+TurtleSpot TW,TW01G0287,Healed,Unknown,Flippers,Minor,1
+TurtleSpot TW,TW01G0290,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0294,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0304,Healed,Propeller strike,Carapace,Severe,2
+TurtleSpot TW,TW01G0311,Healed,Unknown,Flippers,Minor,1
+TurtleSpot TW,TW01G0316,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0320,Healed,Unknown,Flippers,Severe,1
+TurtleSpot TW,TW01G0324,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0347,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0359,Healed,Unknown,Carapace,Severe,1
+TurtleSpot TW,TW01G0364,Healed,Unknown,Carapace,Minor,1
+Survey,TW01G0429,Healed,Fishing line entanglement,Flippers,Severe,1
+Survey,TW01G0441,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01G0505,Healed,Unknown,Carapace,Minor,1
+Survey,TW01G0512,Healed,Unknown,Flippers,Minor,1
+Survey,TW01G0515,Healed,Unknown,Carapace,Minor,1
+Survey,TW01G0525,Healed,Unknown,Carapace,Minor,1
+Survey,TW01G0527,Healed,Unknown,Carapace,Severe,1
+Survey,TW01G0528,Healed,Unknown,Carapace,Minor,1
+Survey,TW01G0561,Healed,Unknown,"Flippers, Carapace",Minor,1
+TurtleSpot TW,TW01G0565,Healed,Unknown,Flippers,Severe,1
+Survey,TW01G0627,Healed,Unknown,Carapace,Minor,1
+Survey,TW01G0637,Healed,Unknown,"Carapace, Flippers",Minor,1
+Survey,TW01G0641,Healed,Unknown,Flippers,Minor,1
+Survey,TW01G0697,Healed,Unknown,Flippers,Minor,1
+Survey,TW01G0708,Healed,Unknown,Carapace,Minor,1
+Survey,TW01G0722,Healed,Unknown,Carapace,Minor,1
+Survey,TW01G0725,Healed,Unknown,"Carapace, Flippers",Severe,1
+Survey,TW01G0755,Healed,Unknown,Carapace,Minor,1
+Survey,TW01G0764,Healed,Unknown,Carapace,Minor,1
+Survey,TW01G0773,Healed,Unknown,Carapace,Minor,1
+Survey,TW01G0779,Healed,Unknown,Carapace,Minor,1
+TurtleSpot TW,TW01H0062,Healed,Unknown,Flippers,Severe,1
+TurtleSpot TW,TW01G0008,Fresh,Fishing line entanglement,Flippers,Minor,1
+TurtleSpot TW,TW01G0041,Fresh,Fishing line entanglement,Head,Minor,1
+TurtleSpot TW,TW01G0042,Fresh,Unknown,Head,Minor,1
+TurtleSpot TW,TW01G0160,Fresh,Fishing line entanglement,Flippers,Minor,1
+TurtleSpot TW,TW01G0191,Fresh,Fishing line entanglement,Mouth,Minor,1
+TurtleSpot TW,TW01G0208,Fresh,Fishing line entanglement,Mouth,Minor,1
+TurtleSpot TW,TW01G0238,Fresh,Fishing line entanglement,Flippers,Minor,1
+TurtleSpot TW,TW01G0143,Dead,Propeller strike,Carapace,Severe,1
+TurtleSpot TW,TW01G0153,Dead,Fishing line entanglement,Mouth,Severe,1
+TurtleSpot TW,TW01G0256,Dead,Propeller strike,Carapace,Severe,1
+TurtleSpot TW,TW01G0284,Dead,Propeller strike,Carapace,Severe,1
+TurtleSpot TW,TW01G0444,Dead,Fishing line entanglement,"Carapace, Head",Severe,1
+TurtleSpot TW,TW01G0587,Dead,Fishing line entanglement,"Carapace, Head, Flippers",Severe,1
