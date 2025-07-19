@@ -72,10 +72,10 @@ Fong, C.-L., et al. (2025). *Long-term wild recovery and resilience of green tur
 
 📧 Contact authors:  
 Chia-Ling Fong  
-chialingfong@gmail.com
+chialingfong [at] gmail.com
 
 TurtleSpot Taiwan
-turtlespotintw@gmail.com
+turtlespotintw [at] gmail.com
 
 ---
 
